@@ -1,0 +1,25 @@
+body{
+	background:white;
+	padding-top:70px;
+}
+.thumbnail{
+	border:none;
+	height:90%;
+	margin-bottom:0;
+}
+form{
+	margin-top:60px;
+}
+
+.signup{
+	font-size:50px;
+	color:#bdbdbd;
+}
+
+.form-group{
+	width:75%;
+}
+
+.submit-but{
+	margin-top:10px;
+}
